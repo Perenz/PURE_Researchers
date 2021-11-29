@@ -1,0 +1,188 @@
+//Rondje Zilverling: COMMIT/TimeTrails
+A Benchmark for Online Non-Blocking Schema Transformations
+A Framework for Representation, Validation and Implementation of Database Application Semantics
+A Framework for Representation, Validation and Implementation of Database Application Semantics
+A Framework for Representation, Validation and Implementation of Databases Application Semanticss
+A Hybrid Text Classification and Language Generation Model for Automated Summarization of Dutch Breast Cancer Radiology Reports
+A Probabilistic Database Extension
+A generic open world named entity disambiguation approach for tweets
+A hybrid approach for robust multilingual toponym extraction and disambiguation
+A possible world approach to uncertain relational data
+A probabilistic XML approach to data integration
+Accelerating XPath Evaluation in Any RDBMS
+Advanced SIKS-course XML: where databases and information retrieval meet
+An Injection with Tree Awareness
+An architecture and methodology for the design and development of Technical Information Systems
+An integrated DMMDBMS prototype supporting video retrieval and security
+Analysis of the NIST database towards the composition of vulnerabilities in attack scenarios
+Analysis of the blocking behaviour of schema transformations in relational database systems
+Autoencoder-based cleaning in probabilistic databases
+Automated semantic trajectory annotation with indoor point-of-interest visits in urban areas
+Automatic Process Comparison for Subpopulations
+Automatic structuring of breast cancer radiology reports for quality assurance
+Big Data Semantics
+Bridging the GAP Between Relational and Native XML Storage with Staircase Join
+Bridging the GAP Between Relational and Native XML Storage with Staircase Join
+CIRQUID: Complex Information Retrieval QUeries In a Database
+Comparing Process Models for Patient Populations
+Comparing Process Models for Patient Populations: Application in Breast Cancer Care
+Compression of Probabilistic XML documents
+Compression of Probabilistic XML documents.
+Computer assisted extraction, merging and correlation of identities with Tracks Inspector
+Concept Extraction Challenge: University of Twente at #MSM2013
+DMMDBMS components and architectures
+Data-Driven Process Discovery and Analysis
+De hamer of de moker: welke databasesoftware te kiezen
+Dealing with poor data quality of OSINT data in fraud risk analysis
+Deep Physiological Arousal Detection in a Driving Simulator Using Wearable Sensors
+Deep Web Entity Monitoring
+Deep web entity monitoring
+Defining the XML schema matching problem for a personal schema based query answering system
+Design and Validation of Reliable Complex Computer Systems
+Design and Validation of Reliable Complex Computer Systems
+Designing A General Deep Web Access Approach Based On A Newly Introduced Factor; Harvestability Factor (HF)
+Designing A General Deep Web Harvester by Harvestability Factor
+Detecting Hacked Twitter Accounts based on Behavioural Change
+Digital-forensics based pattern recognition for discovering identities in electronic evidence
+Distributed XML Database Systems
+Duplicate Detection in Probabilistic Data
+Duplicate Detection in Probabilistic Data
+Duplicate detection in probabilistic data.
+Effectiveness Bounds for Non-Exhaustive Schema Matching Systems
+Efficient Web Harvesting Strategies for Monitoring Deep Web Content
+Efficient Web Harvesting Strategies for Monitoring Deep Web Content
+Evidence combination for incremental decision-making processes
+Exploiting Natural Language Processing for Improving Health Processes
+Finding You on the Internet: an approach for finding on-line presences of people for fraud risk analysis
+Foreword
+Formal Operation Definition in Object-Oriented Databases
+Formalizing the XML Schema Matching Problem as a Constraint Optimization Problem
+Gegevensbanken
+Generic knowledge-based analysis of social media for recommendations
+Hadoop for EEG Storage and Processing: A Feasibility Study
+Handling uncertainty in information extraction
+Handling uncertainty in relation extraction: a case study on tennis tournament results extraction from tweets
+Harvesting All Matching Information To A Given Query From a Deep Website
+How much data resides in a web collection: how to estimate size of a web collection
+Human-in-the-loop Language-agnostic Extraction of Medication Data from Highly Unstructured Electronic Health Records
+ICT-Zakboek
+ICT-Zakboekje
+IMPRESS Database Design Tool - a high-level design toolset based on formal theory
+IMPrECISE: Good-is-good-enough Data Integration
+IMPrECISE: Good-is-good-enough data
+IMPrECISE: Good-is-good-enough data integration
+ISIS in the Eyes of the Dutch
+Identifying Materialized Privacy Claims of Clinical-Care Metadata Share using Process-Mining and REA ontology
+Impress/UT-Soft-D34-001-R1, TMQL Implementation, deliverable S34
+Impress/UT-soft-D41-001-R1, Database Design Tool, deliverable S41
+Improving Named Entity Disambiguation by Iteratively Enhancing Certainty of Extraction
+Improving Toponym Disambiguation by Iteratively Enhancing Certainty of Extraction
+Improving Toponym Extraction and Disambiguation Using Feedback Loop
+Increasing NER recall with minimal precision loss
+Incremental data uncertainty handling using evidence combination: a case study on maritime data reasoning
+Indeterministic Handling of Uncertain Decisions in Deduplication
+Indeterministic Handling of Uncertain Decisions in Duplicate Detection
+Information Extraction for Social Media
+Information Extraction, Data Integration, and Uncertain Data Management: The State of The Art
+Information Integration
+Integration of Biological Sources: Exploring the Case of Protein Homology
+Interactive Explanations of Internal Representations of Neural Network Layers
+Introduction
+JudgeD: a probabilistic datalog with dependencies
+Lazy Evaluation for Concurrent OLTP and Bulk Transactions
+MTCB: A Multi-Tenant Customizable database Benchmark
+Managing Uncertainty: The Road Towards Better Data Interoperability
+Methodological Guidelines for IMPRESS
+Moa and the multi-model architecture: a new perspective on NF2
+Moa and the multi-model architecture: a new perspective on NF2
+Moa: extensibility and efficiency in querying nested data
+MonetDB/XQuery - Consistent & Efficient Updates on the Pre/Post Plane
+MonetDB/XQuery, Technology preview open source release 1
+MonetDB/XQuery: a fast XQuery processor powered by a relational engine
+NEED4Tweet: A Twitterbot for Tweets Named Entity Extraction and Disambiguation
+Named Entity Extraction and Disambiguation from an Uncertainty Perspective
+Named Entity Extraction and Disambiguation: The Reinforcement Effect.
+Named Entity Extraction and Linking Challenge: University of Twente at #Microposts2014
+Named entity extraction and disambiguation: the missing link
+Neogeography: The Challenge of Channelling Large and Ill-Behaved Data Streams
+Object-Oriented Programming: A Unified Foundation - Guiseppe Castagna
+Onzekere databases
+Organisatie Dutch-Belgian Database Day
+Overview of query optimization in XML database systems
+Pathfinder: XQuery - The Relational Way
+Point of interest to region of interest conversion
+Post-Structuring Radiology Reports of Breast Cancer Patients for Clinical Quality Assurance
+Predicting parking occupancy via machine learning in the web of things
+Preface
+Preface
+Preface
+Preface
+Probabilistic Data Integration
+Probabilistic Data Integration
+Probabilistic Data Integration
+Proceedings of the 7th International Symposium on Data-Driven Process Discovery and Analysis (SIMPDA 2017)
+Proceedings of the 8th International Symposium on Data-Driven Process Discovery and Analysis (SIMPDA 2018)
+Proceedings of the International Workshop on Quality in Databases and Management of Uncertain Data (QDBMUD2008)
+Proceedings of the Third International Workshop on Management of Uncertain Data (MUD2009)
+Proceedings of the first international VLDB workshop on Management of Uncertain Data
+Procesautomatisering
+Process prediction in noisy data sets: a case study in a Dutch hospital
+Qualitative Effects of Knowledge Rules and User Feedback in Probabilistic Data Integration
+Qualitative Effects of Knowledge Rules in Probabilistic Data Integration
+Quality Measures in Uncertain Data Management
+ROX: Run-Time Optimization of XQueries
+ROX: The Robustness of a Run-time XQuery Optimizer Against Correlated Data
+Real-time measures of social interaction as predictors for team effectiveness
+Relational Approach to Logical Query Optimization of XPath
+Report on the First VLDB Workshop on Management of Uncertain Data (MUD 2007)
+Report on the development issues: Techniques
+Requirements analysis based on application domains
+Revisiting the formal foundation of Probabilistic Databases
+Rule-based Information Integration
+Rule-based conditioning of probabilistic data
+Run-time Optimization for Pipelined Systems
+SUMMER demo
+Sample-based XPath Ranking for Web Information Extraction
+Scalable Interdisciplinary Data Science Teaching at the University of Twente
+Second Multimedian Workshop on Ambient Multimedia Databases
+Semantic Enrichment of GPS Trajectories
+Semantic enrichment of GPS trajectories : abstract
+Seventh EDBT Summper School on XML & Databases
+Short Term Prediction of Parking Area states Using Real Time Data and Machine Learning Techniques
+Size Estimation of Non-Cooperative Data Collections
+Size estimation of non-cooperative data collections
+Some methodological guidelines for IMPRESS
+Spatiotemporal Behavior Profiling
+Staircase Join: Teach a Relational DBMS to Watch its (Axis) Steps
+Stairwalker User Manual
+Storing and Querying Probabilistic XML Using a Probabilistic Relational DBMS
+TM Manual: version 2.0 revision e
+Taming Data Explosion in Probabilistic Information Integration
+Taming Data Explosion in Probabilistic Information Integration
+The 2nd Twente Data Management Workshop (TDM'06) on Uncertainty in Databases
+The Dodo Query Flattening System
+The Fifth International VLDB Workshop on Management of Uncertain Data
+The Fourth International VLDB Workshop on Management of Uncertain Data
+The IMPRESS DDT
+The TM manual, version 2.0
+Third Workshop on Ambient Databases
+To use or not to use
+Toponym Extraction and Disambiguation Enhancement Using Loops of Feedback
+Towards Complete Coverage in Focused Web Harvesting
+Towards Geosocial Recommender Systems
+Towards Online Relational Schema Transformations
+Towards Online and Transactional Relational Schema Transformations
+Tree Awareness for Relational DBMS Kernels
+Trends in tools voor gegevensmodellering
+Truth assessment of objective facts extracted from tweets
+TwitterNEED: a hybrid approach for named entity extraction and disambiguation for tweets
+Two Video Analysis Applications Using Foreground/Background Segmentation
+Uncertain Groupings: Probabilistic combination of grouping data
+Uncertain groupings: probabilistic combination of grouping data
+Uncertainty Handling in Named Entity Extraction and Disambiguation for Informal Text
+Unsupervised improvement of named entity extraction in short informal context using disambiguation clues
+User Feedback in Probabilistic Integration
+User Feedback in Probabilistic XML
+Using Element Clustering to Increase the Efficiency of XML Schema Matching
+Zoeken in XML: van XPath naar SQL
+Zoeken in XML: van XPath naar SQL
